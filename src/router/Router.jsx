@@ -6,7 +6,7 @@ import Help from '../components/navbar/pages/Help'
 import Contact from '../components/navbar/pages/Contact'
 import Currency from '../components/navbar/pages/Currency'
 import Temprature from '../components/navbar/pages/Temprature'
-import Weight from '../components/navbar/pages/wEIGHT.JSX'
+import Weight from '../components/navbar/pages/Weight.JSX'
 import Login from '../components/navbar/pages/Login'
 const Router = () => {
   return (
