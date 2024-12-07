@@ -1,7 +1,7 @@
 import  { useState } from 'react';
 import { FaWeightScale } from "react-icons/fa6";
 
-const WeightConverter = () => {
+const Weight = () => {
   const [value, setValue] = useState('');
   const [fromUnit, setFromUnit] = useState('Kilograms');
   const [toUnit, setToUnit] = useState('Kilograms');
@@ -129,4 +129,4 @@ const WeightConverter = () => {
   );
 };
 
-export default WeightConverter;
+export default Weight;
